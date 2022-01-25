@@ -1,2 +1,2 @@
 # ramenrec
-hot and spicy and won't disappoint you.
+hot, spicy and won't disappoint you.
